@@ -20,7 +20,19 @@ End the program
 ## PROGRAM:
 
 
+```
+#Program to swap two values.
+#Developed by:PRAVEEN.K 
+#RegisterNumber:23014148
+a= int(input(""))
+b= int(input(""))
+a,b=b,a
+print("Swapped values are:",a,b)
+```
 
+## OUTPUT:
+
+![SWAP OUTPUT.png](/)![Alt text](<SWAP OUTPUT.png>)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
