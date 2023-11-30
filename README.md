@@ -32,7 +32,8 @@ print("Swapped values are:",a,b)
 
 ## OUTPUT:
 
-![OUTPUT](/Swapping-two-values/SWAP%20OUTPUT.png)
+![swapping of two variables output](https://github.com/K-PRAVEEN-2005/Swapping-two-values/assets/145742724/da6572ad-0f83-4cb4-9c29-9e597d4b2d38)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
